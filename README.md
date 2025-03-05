@@ -1,2 +1,5 @@
 # B2203463
-thực hành buổi 5
+họ tên: Huỳnh Hiệp Phát 
+mssv: B2203463
+Lớp: DI2295A1
+Nhóm học phần: CT299
